@@ -3,14 +3,14 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [What components?](#what-components?)
+* [Components](#components)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
 ## General info
 This is project of made myself Arduino Uno weather station shield using WiFi to connect.
 
-## What components?
+## Components?
 This project was bulid on below components:
 * Arduino Uno Rev3 - A000066
 * Rain sensor YL-83
