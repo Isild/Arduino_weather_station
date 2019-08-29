@@ -3,7 +3,7 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [What components?](what-components?)
+* [What components?](#what-components?)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
